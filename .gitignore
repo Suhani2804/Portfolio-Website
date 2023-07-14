@@ -1,0 +1,7 @@
+# things I learnt:
+# first thing to write a class in html and create a duv block out of it just wrte .classname
+# for multiple classes write: .classname1.classname2 and so on
+# to create a header tag using the same trick write .header.classnames
+
+# if you want to write someting like: sec1,sec2 and so on as class names write .sec-$*no_of_times this dolllar signs auto generates the numbers
+# acc to the number of secs you want
